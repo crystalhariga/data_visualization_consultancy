@@ -3,4 +3,4 @@ This is a team project for my Information Visualization class (Fall 2020) where 
 
 ## Files included:
 1. final project.pdf -- Final presentation using insights obtained from Tableau and R
-2. ggplot2_code.html -- Summary of R code that I contributed to the presentation
+2. [ggplot2_code.html](https://htmlpreview.github.io/?https://github.com/crystalhariga/data_visualization_consultancy/blob/main/ggplot2_code.html) -- Summary of R code that I contributed to the presentation
